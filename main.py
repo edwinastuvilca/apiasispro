@@ -82,8 +82,8 @@ def post_saludar(name = None):
 #     iris = pd.read_csv(url)
 # 
 #     return iris
-
-
+#
+#
 # @app.post("/get-iris")
 # def post_iris():
 # 
@@ -93,8 +93,8 @@ def post_saludar(name = None):
 # 
 #     return iris
 #     return text
-
-
+#
+#
 # @app.get("/get-iris")
 # def get_iris():
 # 
@@ -103,8 +103,8 @@ def post_saludar(name = None):
 #     iris = pd.read_csv(url)
 # 
 #     return iris
-
-
+#
+#
 # @app.post("/get-iris")
 # def post_iris():
 # 
